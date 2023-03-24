@@ -1,0 +1,51 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    },
+    {
+      "id": 2
+    },
+    {
+      "id": 3
+    },
+    {
+      "id": 4
+    },
+    {
+      "title": "âfag",
+      "id": 5
+    }
+  ],
+  "comments": [
+    {
+      "body": "hello",
+      "id": 1
+    },
+    {
+      "body": "xin chào",
+      "id": 2
+    },
+    {
+      "body": "haha",
+      "id": 3
+    },
+    {
+      "body": "MIkuH",
+      "id": 4
+    },
+    {
+      "body": "haha1",
+      "id": 5
+    },
+    {
+      "body": "haha1",
+      "id": 6
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
